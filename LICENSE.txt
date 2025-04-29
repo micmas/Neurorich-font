@@ -1,10 +1,10 @@
-NeuroRich Regular – License Information
+Scirich Regular – License Information
 =======================================
 
 Font based on Aldrich by Matt McInerney (https://fonts.google.com/specimen/Aldrich),
 licensed under the SIL Open Font License, Version 1.1.
 
-Modified by Michèle Masson-Trottier on 2025-04-15. Renamed to "NeuroRich Regular".
+Modified by Michèle Masson-Trottier on 2025-04-15. Renamed to "Scirich Regular".
 
 This modified font is also licensed under the SIL Open Font License, Version 1.1.
 
