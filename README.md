@@ -1,19 +1,19 @@
-# Neurorich Regular
+# Scirich Regular
 
-**Neurorich Regular** is a modified version of the open-source [Aldrich](https://fonts.google.com/specimen/Aldrich) typeface originally designed by Matt McInerney.
+**Scirich Regular** is a modified version of the open-source [Aldrich](https://fonts.google.com/specimen/Aldrich) typeface originally designed by Matt McInerney.
 
-This version has been adapted and renamed by Michèle Masson-Trottier in 2025 to reflect specific visual refinements and customization needs for the Neurodesk logo. It adheres to the requirements of the SIL Open Font License (OFL).
+This version has been adapted and renamed by Michèle Masson-Trottier in 2025 to reflect specific visual refinements and customization needs for the Sciget and Neurodesk logo. It adheres to the requirements of the SIL Open Font License (OFL).
 
 ## Overview of Modifications
 
 - Minor adjustments to spacing and glyph shapes
 - Metadata and font naming updated to reflect the new version
-- Renamed to "Neurorich Regular" to comply with the OFL requirement that derivative fonts use a different name
+- Renamed to "Scirich Regular" to comply with the OFL requirement that derivative fonts use a different name
 
 ## Font Files
 
 The font is available in the `fonts/` directory:
-- `Neurorich-Regular.ttf`
+- `Scirich-Regular.ttf`
 
 ## License
 
